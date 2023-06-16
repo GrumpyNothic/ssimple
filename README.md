@@ -1,6 +1,6 @@
 # SSIMPLE
 
-A Python module for computations with semi-simple Lie Algebra representations, their weights and wieght-space decomposition.
+A Python module for computations with semi-simple Lie Algebra representations, their weights and weight-space decomposition.
 
 ## Credits
 
